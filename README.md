@@ -4,7 +4,9 @@ This script replicates AWS SSM parameters (e.g., URLs, secrets) from one region 
 
 ## Usage
 
-Run this command " chmod +x replicate-prod-params.sh " to apply permission
+Run this command " chmod +x replicate-prod-params.sh " to apply permission.
+
+
 Run script with this command " ./replicate-prod-params.sh "
 
 
